@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e3ed9397004194e459a09080d698a4ee, type: 3}
+  m_Name: Page3
+  m_EditorClassIdentifier: 
+  pageLine: Inside the house he slept.
+  pageModelScene: {fileID: 4531148148077323563, guid: c870e47e5b670ab42970085d8ef5d7a1,
+    type: 3}
